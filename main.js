@@ -77,22 +77,51 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // FAQ Accordion
+    const faqQuestions = document.querySelectorAll('.faq-question');
+    
+    faqQuestions.forEach(question => {
+        question.addEventListener('click', () => {
+            const answer = question.nextElementSibling;
+            const icon = question.querySelector('i');
+            
+            // Toggle active class
+            question.classList.toggle('active');
+            
+            // Toggle max-height for smooth slide
+            if (question.classList.contains('active')) {
+                answer.style.maxHeight = answer.scrollHeight + 'px';
+            } else {
+                answer.style.maxHeight = 0;
+            }
+            
+            // Optional: Close other open items
+            faqQuestions.forEach(otherQuestion => {
+                if (otherQuestion !== question && otherQuestion.classList.contains('active')) {
+                    otherQuestion.classList.remove('active');
+                    otherQuestion.nextElementSibling.style.maxHeight = 0;
+                }
+            });
+        });
+    });
+
     // Scroll Animation (Fade in elements on scroll)
     const observerOptions = {
-        threshold: 0.1
+        threshold: 0.1,
+        rootMargin: "0px 0px -50px 0px"
     };
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
-                entry.target.classList.add('fade-in');
+                entry.target.classList.add('visible');
                 observer.unobserve(entry.target);
             }
         });
     }, observerOptions);
 
     document.querySelectorAll('section').forEach(section => {
-        section.classList.add('hidden'); // Add this class in CSS if you want initial hidden state
-        // observer.observe(section); // Uncomment to enable scroll animations
+        section.classList.add('fade-in');
+        observer.observe(section);
     });
 });

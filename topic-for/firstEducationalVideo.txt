@@ -1,0 +1,219 @@
+Great choice 👍  
+Below is **ready-to-use Google Slides content** for an **educational video** on **Search Engine Optimization (SEO)**.  
+Simple language, student‑friendly, and visually guided.
+
+***
+
+## 🎬 Video Topic: **Search Engine Optimization (SEO)**
+
+**Purpose:** Educational (Beginner Level)
+
+***
+
+## 🟦 Slide 1: Title Slide
+
+### **Title**
+
+**Search Engine Optimization (SEO)**
+
+### **Subtitle**
+
+How Websites Appear on Google
+
+### **Visuals**
+
+*   Google search bar with a query like: *“Best mobile phones”*
+*   Websites appearing as search results
+*   Optional icon: 🔍 (search icon)
+
+### **Narrator Notes**
+
+> Search Engine Optimization, or SEO, is the process of improving a website so it appears higher on search engines like Google. In this video, we will learn what SEO is and why it is important.
+
+***
+
+## 🟦 Slide 2: What Is SEO?
+
+### **Content (Bullet Points)**
+
+*   SEO helps websites show up on **Google search results**
+*   It brings **free (organic) traffic**
+*   No paid ads involved
+
+### **Visuals**
+
+*   Flow diagram:  
+    **User Search → Google → Optimized Website**
+*   Icons: user, search engine, website
+
+### **Narrator Notes**
+
+> SEO means making changes to a website so search engines understand it better. When a website is optimized, Google shows it to users who are searching for related information.
+
+***
+
+## 🟦 Slide 3: Why Is SEO Important?
+
+### **Content (Bullet Points)**
+
+*   Most people click **top results**
+*   Higher ranking = **more visitors**
+*   Builds **trust and credibility**
+
+### **Visuals**
+
+*   Graph showing higher clicks for top rankings
+*   Trophy 🏆 next to top Google result
+
+### **Narrator Notes**
+
+> Websites that appear on the first page of Google are more likely to be visited. SEO helps businesses, students, and content creators reach more people without paying for ads.
+
+***
+
+## 🟦 Slide 4: Main Parts of SEO
+
+### **Content (Bullet Points)**
+
+*   ✅ Content
+*   ✅ Keywords
+*   ✅ Technical improvements
+
+### **Visuals**
+
+*   Three labeled icons:
+    *   📄 Content
+    *   🔑 Keywords
+    *   ⚙️ Technical SEO
+
+### **Narrator Notes**
+
+> SEO is made up of three main areas: good content, using the right keywords, and making sure the website works well technically.
+
+***
+
+## 🟦 Slide 5: Content in SEO
+
+### **Content (Bullet Points)**
+
+*   Useful and clear information
+*   Answers user questions
+*   Updated regularly
+
+### **Visuals**
+
+*   Blog article preview
+*   Checklist ✅ next to “Helpful Content”
+
+### **Narrator Notes**
+
+> Content is the most important part of SEO. Google prefers websites that provide helpful, accurate, and easy-to-understand information for users.
+
+***
+
+## 🟦 Slide 6: Keywords in SEO
+
+### **Content (Bullet Points)**
+
+*   Words users type into Google
+*   Must match the content
+*   Used in titles and text
+
+### **Visuals**
+
+*   Google search bar with highlighted keywords
+*   Tag icons 🔖
+
+### **Narrator Notes**
+
+> Keywords are the words people search for on Google. By using correct keywords in our content, search engines know what our page is about.
+
+***
+
+## 🟦 Slide 7: Technical SEO
+
+### **Content (Bullet Points)**
+
+*   Fast website loading
+*   Mobile-friendly design
+*   Secure (HTTPS)
+
+### **Visuals**
+
+*   Speedometer icon ⚡
+*   Mobile phone + laptop
+*   Lock 🔒 icon
+
+### **Narrator Notes**
+
+> Technical SEO helps the website run smoothly. A fast, mobile-friendly, and secure website gives a better experience to users and search engines.
+
+***
+
+## 🟦 Slide 8: Simple SEO Example
+
+### **Content**
+
+**Search:** “How to cook rice”  
+**SEO Result:** Blog with clear steps, images, and keywords
+
+### **Visuals**
+
+*   Before & After comparison:
+    *   ❌ Poor content
+    *   ✅ SEO-optimized content
+
+### **Narrator Notes**
+
+> For example, if someone searches how to cook rice, Google will show pages that clearly explain the steps and use the right keywords.
+
+***
+
+## 🟦 Slide 9: SEO Summary
+
+### **Content (Bullet Points)**
+
+*   SEO improves website visibility
+*   Brings free traffic
+*   Requires content, keywords, and technical quality
+
+### **Visuals**
+
+*   Checklist or summary icons
+*   Google logo (educational use)
+
+### **Narrator Notes**
+
+> To summarize, SEO helps websites appear higher on Google. When done correctly, it increases visibility and brings more visitors naturally.
+
+***
+
+## 🟦 Slide 10: End Slide
+
+### **Title**
+
+Thank You!
+
+### **Subtitle**
+
+Learning SEO is a skill for the future 🚀
+
+### **Visuals**
+
+*   Graduation cap 🎓
+*   Rocket 🚀
+
+### **Narrator Notes**
+
+> SEO is an important digital skill. Understanding it early can help in education, careers, and online businesses. Thank you for watching.
+
+***
+
+### ✅ If you want next:
+
+*   🎥 **Voice-friendly script only**
+*   🎞 **Canva-style captions**
+*   📚 **Student worksheet version**
+*   🇱🇰 **Simplified Sinhala narration**
+
+Just tell me 😊

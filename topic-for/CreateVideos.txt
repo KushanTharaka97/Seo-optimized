@@ -1,0 +1,20 @@
+1. Search Engine Optimization (SEO)
+Optimizing websites to rank higher on search engines through content, keywords, and technical improvements.
+2. Content Marketing
+Creating valuable, relevant content (blogs, videos, guides) to attract, engage, and convert audiences.
+3. Search Engine Marketing (SEM / PPC)
+Paid advertising on search engines (e.g., Google Ads) to gain immediate visibility and traffic.
+4. Keyword Research & Search Intent
+Identifying what users search for and matching content to their intent (informational, navigational, transactional).
+5. On-Page SEO
+Optimizing individual pages using titles, meta descriptions, headings, internal links, and content structure.
+6. Technical SEO
+Improving site performance, crawlability, mobile-friendliness, page speed, and indexation.
+7. Link Building & Authority
+Earning high-quality backlinks to improve domain authority and search rankings.
+8. Social Media Marketing
+Using social platforms to promote content, build brand awareness, and drive traffic.
+9. Conversion Rate Optimization (CRO)
+Improving landing pages and user journeys to convert visitors into leads or customers.
+10. Analytics & Performance Tracking
+Measuring results using tools like Google Analytics and Search Console to optimize strategies.

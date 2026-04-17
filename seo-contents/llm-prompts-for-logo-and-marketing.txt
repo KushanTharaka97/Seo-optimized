@@ -1,0 +1,34 @@
+# LLM Prompts for Logo and Marketing Content
+
+---
+
+## 1. Logo Generation Prompt
+
+Create a modern, professional logo for a digital marketing agency called "KushSEO". The design should feature bold, clean typography with "Kush" in green and "SEO" in orange. Include a subtle digital or upward arrow element to symbolize growth and success. The background should be transparent, and the style should be minimal, suitable for both dark and light website themes.
+
+---
+
+## 2. Christmas Season Marketing Video Prompt
+
+Generate a festive digital marketing scene: a laptop displaying SEO analytics, Christmas decorations, gift boxes, and a graph showing rising profits. The background should be cozy and vibrant, evoking holiday cheer.
+
+Narrator Notes:
+“This Christmas, make your business shine with KushSEO! Our platform helps you create engaging digital marketing videos that boost your online presence and drive sales. Discover how KushSEO turns the holiday season into your most profitable time of year—start optimizing today!”
+
+---
+
+## 3. Social Media Multi-Platform Plan Prompt
+
+"List the most effective social media platforms for digital marketing besides Facebook and Instagram. For each, describe the type of content that works best and how businesses can use them to grow their brand."
+
+---
+
+## 4. Pricing Plan Video Section Prompt
+
+"Create a pricing plan section for Facebook & Instagram post/text content and engagement services. Include 5 plans (Starter, Basic, Growth, Pro, Enterprise) with post counts, platforms, engagement level, and LKR pricing. Format for a modern website."
+
+---
+
+## 5. Digital Marketing & SEO Services Accordion Prompt
+
+"List digital marketing and SEO services with short, clear descriptions and LKR pricing. Format as an accordion/foldable section for a modern website."
